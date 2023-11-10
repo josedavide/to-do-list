@@ -1,0 +1,26 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/To-Do List (Python)/*
+!/To-Do List (Python)/task/
+/To-Do List (Python)/task/*
+!/To-Do List (Python)/task/todolist
+!/To-Do List (Python)/task/view.py
+!/To-Do List (Python)/task/ui_controller.py
+!/To-Do List (Python)/task/constants.py
+!/To-Do List (Python)/task/repository.py
+!/To-Do List (Python)/task/database.py
+!/To-Do List (Python)/task/model.py
+!/To-Do List (Python)/task/main.py
+!/To-Do List (Python)/task/base.py
+!/To-Do List (Python)/task/manager.py
+!/To-Do List (Python)/task/todo.db
